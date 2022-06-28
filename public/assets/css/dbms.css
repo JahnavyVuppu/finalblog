@@ -1,0 +1,16 @@
+body{
+    
+    background-color: beige;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    height: 0px;
+    border-color:grey;
+}
+span a{
+    text-decoration: none;
+    font-size: x-large;
+}
